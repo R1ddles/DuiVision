@@ -3,7 +3,6 @@ DuiVision
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 [![](https://img.shields.io/badge/Author-蓝蚂蚁工作室-blue.svg)](http://www.blueantstudio.net)
-![QQ群325880743](https://img.shields.io/badge/QQ群-325880743-brightgreen)
 [![GitHub stars](https://img.shields.io/github/stars/blueantst/DuiVision.svg?style=social&label=Stars)](https://github.com/blueantst/DuiVision)
 [![GitHub forks](https://img.shields.io/github/forks/blueantst/DuiVision.svg?style=social&label=Fork)](https://github.com/blueantst/DuiVision)
 
@@ -27,8 +26,6 @@ DuiVision开源下载地址(gitee)：https://gitee.com/blueantst/DuiVision
 蓝蚂蚁工作室主页：[http://www.blueantstudio.net](http://www.blueantstudio.net)
 
 作者Blog：[http://blog.csdn.net/oceanheart](http://blog.csdn.net/oceanheart)
-
-QQ群：325880743 (Script.NET&DuiVision社区)<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=7e3a1bd187395dbc62ae950b236386bf2de8a58fe83bd71f30de142619cb7aa9"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="Script.NET&amp;DuiVision社区" title="Script.NET&amp;DuiVision社区"></a>
 
 微信公众号：blueantstudio 或搜索 蓝蚂蚁工作室
 
